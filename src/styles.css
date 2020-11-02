@@ -1,0 +1,42 @@
+a {
+  color: #61dafb;
+  font-weight: 300;
+}
+
+a:hover {
+  color: white;
+}
+
+body {
+  background-color: #282c34;
+}
+
+canvas {
+  border: 2px solid black;
+}
+
+h1 {
+  color: #61dafb;
+}
+
+table {
+  border-spacing: 0;
+  border: 2px solid #20232a;
+}
+
+td {
+  width: 10px;
+  height: 10px;
+  border: 1px solid #282c34;
+  background-color: #32363e;
+}
+
+td:hover {
+  background-color: #545b68;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
